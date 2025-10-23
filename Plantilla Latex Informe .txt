@@ -1,0 +1,161 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\usepackage{longtable}
+\usepackage{array}
+
+% Configuración de márgenes
+\geometry{top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm}
+
+% Encabezado y pie de página
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Instituto Profesional INACAP - Sede Renca}
+\rhead{Ingeniería en Informática}
+\cfoot{\thepage}
+
+% Portada
+\begin{document}
+
+\begin{titlepage}
+    \centering
+    \includegraphics[width=0.35\textwidth]{inacap_logo.png}\par\vspace{1cm}
+    {\scshape\LARGE Instituto Profesional INACAP - Sede Renca \par}
+    \vspace{1cm}
+    {\Large \textbf{Informe de Visualización de datos}}\par
+    \vspace{1cm}
+    {\large Carrera: Ingeniería en Informática \par}
+    \vspace{0.5cm}
+    {\large Asignatura: Visualización de datos \par}
+    \vspace{0.5cm}
+    {\large Docente: \textbf{Pablo Constancio de Navarro} \par}
+    \vspace{1cm}
+    {\large Estudiante: \underline{\hspace{8cm}} \par}
+    \vspace{0.5cm}
+    {\large Fecha de entrega: \underline{\hspace{5cm}} \par}
+    \vfill
+    {\large Renca, Chile \par}
+    {\large \today \par}
+\end{titlepage}
+
+\setstretch{1.2}
+
+% -----------------------
+% ESTRUCTURA DEL INFORME
+% -----------------------
+
+\section*{1. Introducción}
+Describa el contexto general del análisis, el objetivo del estudio y el tipo de datos utilizados.  
+Ejemplo: "El presente informe tiene por objetivo aplicar técnicas de Visualización de datos para descubrir patrones de comportamiento en un conjunto de clientes."
+
+\vspace{0.5cm}
+
+\section*{2. Descripción del conjunto de datos}
+Explique las características del dataset utilizado:
+\begin{itemize}
+    \item Fuente de los datos.
+    \item Cantidad de observaciones y variables.
+    \item Breve descripción de cada variable.
+    \item Tipos de datos (numéricos, categóricos, fechas, etc.).
+\end{itemize}
+
+\vspace{0.5cm}
+
+\section*{3. Limpieza y preprocesamiento de datos}
+Describa las acciones realizadas antes del análisis:
+\begin{itemize}
+    \item Detección y manejo de valores faltantes.
+    \item Eliminación o imputación de outliers.
+    \item Normalización o escalamiento de variables.
+    \item Conversión de variables categóricas.
+\end{itemize}
+
+Incluya fragmentos de código si corresponde.
+
+\begin{verbatim}
+# Ejemplo de código R:
+summary(datos)
+datos <- na.omit(datos)
+\end{verbatim}
+
+\vspace{0.5cm}
+
+\section*{4. Análisis exploratorio de datos (EDA)}
+Presente los principales resultados gráficos y estadísticos:
+\begin{itemize}
+    \item Distribución de variables principales.
+    \item Correlaciones relevantes.
+    \item Patrones o tendencias observadas.
+\end{itemize}
+
+Incluya al menos tres gráficos con su interpretación.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{grafico1.png}
+    \caption{Ejemplo de distribución de variable.}
+\end{figure}
+
+\vspace{0.5cm}
+
+\section*{5. Detección de outliers}
+Explique la metodología utilizada (boxplots, IQR, z-score, etc.) y muestre los resultados visualmente.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{grafico_outliers.png}
+    \caption{Detección de valores atípicos.}
+\end{figure}
+
+Comente posibles causas o implicancias de los outliers detectados.
+
+\vspace{0.5cm}
+
+\section*{6. Clustering o segmentación}
+Describa el método de agrupamiento utilizado (K-Means, DBSCAN, jerárquico, etc.), las variables empleadas y el número de clusters elegidos.  
+Incluya gráficos representativos y explique los resultados.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{grafico_clusters.png}
+    \caption{Visualización de clusters.}
+\end{figure}
+
+\textbf{Ejemplo de código R:}
+\begin{verbatim}
+set.seed(123)
+k3 <- kmeans(datos_scaled, centers=3)
+plot(datos_scaled, col=k3$cluster)
+\end{verbatim}
+
+\vspace{0.5cm}
+
+\section*{7. Principales insights o conclusiones}
+Enumere los hallazgos más importantes del análisis, tales como:
+\begin{itemize}
+    \item Grupos de clientes o comportamientos identificados.
+    \item Variables más influyentes.
+    \item Posibles recomendaciones o hipótesis.
+\end{itemize}
+
+\vspace{0.5cm}
+
+\section*{8. Reflexión final del estudiante}
+Incluya una breve reflexión sobre el aprendizaje obtenido al desarrollar el análisis, los desafíos encontrados y cómo podría mejorarse el proceso.
+
+\vspace{1cm}
+
+\textbf{Firma del estudiante:} \underline{\hspace{8cm}}
+
+\end{document}

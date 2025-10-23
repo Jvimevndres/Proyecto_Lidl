@@ -1,0 +1,501 @@
+"RUN","Nombre","Apellido","Genero","Comuna","Religion","Puntos_Socio","Numero_Compras","Promedio_Total_Compra","Tipo_Cliente","Ratio_Frecuencia","Fecha_Ultima_Compra","Fecha_Nacimiento"
+"19723277","Felipe","Contreras Diaz","Hombre","Santiago","Evangelico",8273,320,529930,"Entusiasta",8,2025-03-12,1998-10-07
+"20716969","Maria","Gonzalez Martinez","Mujer","Providencia","Catolico",5095,689,223780,"Planificado",2.48,2025-04-27,2002-01-13
+"27559652","Pedro","Flores Hernandez","Hombre","Peñalolen","Catolico",5667,529,469290,"Entusiasta",2.26,2025-01-04,1997-11-20
+"23954957","Pedro","Rojas Muñoz","Hombre","Puente Alto","Evangelico",2372,115,693310,"Planificado",3.13,2025-01-19,1981-10-11
+"13891674","Andres","Martinez Diaz","Hombre","La Florida","Sin Religion",878,44,597060,"Planificado",1.56,2025-07-25,1990-12-05
+"24714436","Andres","Morales Rodriguez","Hombre","Providencia","Evangelico",9446,450,541570,"Planificado",7.54,2024-10-13,1993-12-31
+"8402857","Fernanda","Araya Flores","Mujer","Vitacura","Catolico",8514,379,613300,"Planificado",5.46,2025-08-30,1988-02-10
+"16972029","Felipe","Hernandez Morales","Hombre","Providencia","Sin Religion",3578,647,43490,"Entusiasta",1.91,2025-06-19,1999-01-23
+"21814691","Manuel","Diaz Contreras","Hombre","San Bernardo","Catolico",8209,411,47220,"Compulsivo",6.54,2025-09-10,2003-12-08
+"13077584","Carlos","Flores Diaz","Hombre","Pudahuel","Evangelico",5142,605,88720,"Planificado",2.23,2025-09-09,1999-01-23
+"10766694","Carla","Rojas Sepulveda","Mujer","La Florida","Catolico",9859,399,457440,"Organizado",5.03,2025-05-11,1975-03-03
+"17333279","Valentina","Diaz Rodriguez","Mujer","Las Condes","Sin Religion",9678,707,777000,"Planificado",8.05,2025-04-09,1985-11-22
+"25179528","Francisca","Morales Torres","Mujer","Ñuñoa","Sin Religion",9407,335,46390,"Organizado",2.9,2025-04-11,1989-05-06
+"9498010","Carlos","Rodriguez Muñoz","Hombre","Cerrillos","Catolico",3523,397,186750,"Organizado",9.05,2025-05-06,1979-04-24
+"16789812","Valentina","Lopez Flores","Mujer","Lo Barnechea","Evangelico",5475,891,369380,"Organizado",2,2025-03-14,1986-03-08
+"18862808","Miguel","Flores Rodriguez","Hombre","Ñuñoa","Sin Religion",8872,645,669400,"Entusiasta",1.61,2025-06-07,1992-12-18
+"26964444","Luis","Morales Soto","Hombre","Puente Alto","Catolico",4762,958,799710,"Planificado",8.44,2025-08-17,1977-06-04
+"12462663","Felipe","Silva Sepulveda","Hombre","La Florida","Evangelico",7280,936,126670,"Entusiasta",7.71,2025-02-22,2001-06-24
+"12933182","Francisca","Torres Araya","Mujer","Santiago","Catolico",1848,911,245930,"Entusiasta",8.59,2025-02-08,1996-07-23
+"17204433","Miguel","Hernandez Silva","Hombre","Santiago","Sin Religion",6122,317,723040,"Planificado",7.51,2025-04-26,2000-04-05
+"27243284","Cristian","Flores Contreras","Hombre","Puente Alto","Sin Religion",1633,398,228810,"Entusiasta",4.93,2024-12-03,1991-02-10
+"8990323","Juan","Perez Fuentes","Hombre","Ñuñoa","Catolico",1058,130,653790,"Planificado",5.4,2024-10-18,1992-03-31
+"14138629","Daniela","Contreras Morales","Mujer","Santiago","Sin Religion",7011,292,433730,"Entusiasta",9.58,2025-06-30,1982-08-16
+"23387079","Valentina","Flores Sepulveda","Mujer","Vitacura","Sin Religion",5054,706,871290,"Planificado",4.63,2025-09-18,2003-08-23
+"13599061","Constanza","Flores Hernandez","Mujer","La Reina","Catolico",4227,609,202340,"Entusiasta",5.56,2025-08-03,1994-12-05
+"10548894","Pedro","Sepulveda Morales","Hombre","Maipu","Catolico",1452,182,43500,"Compulsivo",4.2,2024-10-04,1985-11-21
+"23674576","Carolina","Perez Fuentes","Mujer","Santiago","Catolico",4983,251,45840,"Entusiasta",8.52,2024-10-10,1985-11-05
+"8208908","Maria","Torres Sepulveda","Mujer","Maipu","Evangelico",9878,679,407850,"Planificado",9.71,2025-09-21,2002-05-04
+"12462581","Josefa","Morales Hernandez","Mujer","Vitacura","Catolico",9896,279,537620,"Organizado",3.26,2025-02-21,2001-11-07
+"26216024","Luis","Martinez Flores","Hombre","Puente Alto","Catolico",3752,216,590500,"Planificado",8.46,2025-04-17,1979-01-30
+"9612758","Constanza","Martinez Gonzalez","Mujer","Lo Barnechea","Catolico",2947,653,245170,"Entusiasta",7.55,2025-04-16,1994-09-09
+"27015079","Miguel","Gonzalez Araya","Hombre","Santiago","Sin Religion",5894,655,252900,"Entusiasta",8.04,2025-04-04,1984-03-17
+"15873645","Rocio","Flores Martinez","Mujer","Providencia","Catolico",1133,162,359450,"Organizado",7.71,2025-06-17,2002-01-03
+"18351679","Felipe","Soto Contreras","Hombre","Las Condes","Musulman",6585,655,62500,"Entusiasta",5.4,2025-02-04,1982-08-14
+"20990530","Matias","Muñoz Diaz","Hombre","La Reina","Catolico",8140,180,758120,"Compulsivo",6.53,2024-12-26,1987-04-02
+"17894901","Daniela","Lopez Contreras","Mujer","Lo Barnechea","Judio",5215,660,810330,"Compulsivo",7.95,2025-01-07,1988-09-07
+"13550244","Daniela","Morales Muñoz","Mujer","Pudahuel","Catolico",7807,148,736700,"Planificado",8.76,2024-11-14,1991-11-06
+"16905778","Diego","Perez Torres","Hombre","Vitacura","Sin Religion",6252,790,821550,"Compulsivo",7.92,2025-09-01,1992-01-05
+"12832433","Matias","Rojas Lopez","Hombre","Lo Barnechea","Sin Religion",1440,374,726870,"Planificado",5.02,2025-06-12,1988-03-19
+"14408521","Josefa","Perez Araya","Mujer","La Reina","Catolico",9925,315,389310,"Compulsivo",7.51,2025-05-18,1980-11-20
+"21987966","Diego","Silva Contreras","Hombre","Puente Alto","Catolico",1962,224,492020,"Organizado",1.2,2025-08-15,1993-04-26
+"19349776","Josefa","Rojas Muñoz","Mujer","Lo Barnechea","Evangelico",1023,152,153720,"Entusiasta",2.76,2025-01-12,1990-09-28
+"23186797","Daniela","Fuentes Lopez","Mujer","Maipu","Evangelico",2839,845,261250,"Planificado",4.31,2025-04-29,1984-04-06
+"23892317","Constanza","Fuentes Contreras","Mujer","Lo Barnechea","Catolico",5469,251,953220,"Compulsivo",3.68,2024-12-27,2002-08-27
+"15365590","Diego","Hernandez Diaz","Hombre","Vitacura","Evangelico",2887,10,902350,"Entusiasta",7.99,2025-01-24,1999-04-08
+"14961030","Diego","Hernandez Rojas","Hombre","Lo Barnechea","Catolico",7602,963,1382570,"Entusiasta",1.3,2024-12-30,1978-07-30
+"17853593","Carla","Araya Araya","Mujer","Maipu","Evangelico",8216,576,357280,"Entusiasta",1.27,2025-04-04,1985-12-30
+"14643693","Felipe","Rojas Lopez","Hombre","Providencia","Catolico",3698,70,56000,"Entusiasta",1.85,2025-01-08,1986-11-09
+"24681119","Valentina","Flores Diaz","Mujer","Quilicura","Catolico",7167,543,758870,"Planificado",1.39,2024-12-16,1977-02-13
+"26333471","Miguel","Perez Torres","Hombre","Pudahuel","Catolico",4063,314,411410,"Organizado",9.97,2025-01-20,1986-03-16
+"26128438","Andres","Lopez Silva","Hombre","San Bernardo","Sin Religion",2499,316,24230,"Planificado",5.58,2025-04-21,1982-05-23
+"24470012","Matias","Muñoz Rojas","Hombre","Ñuñoa","Evangelico",7713,917,531160,"Compulsivo",6.25,2024-11-24,2001-04-20
+"10521909","Miguel","Fuentes Araya","Hombre","Lo Barnechea","Evangelico",1333,482,1359340,"Organizado",5.93,2024-12-10,2002-06-04
+"11101260","Constanza","Flores Lopez","Mujer","Lo Barnechea","Catolico",1899,293,1118840,"Planificado",4.38,2025-08-05,1990-01-21
+"13414583","Paula","Soto Sepulveda","Mujer","Las Condes","Sin Religion",9022,696,486270,"Organizado",9,2025-04-22,1986-08-11
+"10533571","Manuel","Soto Perez","Hombre","Providencia","Sin Religion",3155,640,422320,"Compulsivo",6.6,2024-12-29,1990-09-02
+"24814759","Miguel","Torres Muñoz","Otro","Pudahuel","Evangelico",7161,319,727580,"Compulsivo",5.28,2024-12-23,1999-06-14
+"26740829","Camila","Gonzalez Sepulveda","Mujer","Santiago","Musulman",7094,918,270770,"Planificado",1.45,2025-09-19,1979-09-29
+"25817943","Rocio","Rojas Diaz","Mujer","Maipu","Catolico",2416,558,23180,"Organizado",7.25,2025-07-16,1986-11-18
+"11388267","Constanza","Rodriguez Morales","Mujer","Las Condes","Sin Religion",7799,374,253320,"Planificado",2.59,2025-03-10,1991-11-09
+"9403056","Pedro","Flores Muñoz","Hombre","Ñuñoa","Judio",7925,658,49470,"Compulsivo",6.47,2025-07-15,1987-12-14
+"10747194","Matias","Diaz Fuentes","Hombre","La Florida","Sin Religion",4422,773,151180,"Organizado",9.87,2025-07-08,1987-02-05
+"13502474","Carlos","Fuentes Diaz","Hombre","Santiago","Catolico",8993,443,403850,"Planificado",7.95,2025-09-20,1993-07-07
+"15909302","Javier","Araya Gonzalez","Hombre","Maipu","Evangelico",6574,568,655530,"Compulsivo",6.01,2024-12-14,2003-11-03
+"13541740","Carla","Morales Fuentes","Mujer","Maipu","Evangelico",2251,762,344150,"Organizado",8.38,2025-08-17,1982-07-21
+"20708458","Fernanda","Fuentes Fuentes","Mujer","Peñalolen","Evangelico",1515,249,237860,"Entusiasta",6.01,2025-04-23,1977-04-02
+"13008813","Daniela","Silva Soto","Mujer","Las Condes","Judio",5131,485,1060840,"Planificado",1.82,2025-07-05,1987-01-25
+"20914424","Andres","Sepulveda Flores","Hombre","Puente Alto","Sin Religion",6099,785,693450,"Planificado",8.95,2024-10-14,1988-03-02
+"21067691","Luis","Fuentes Muñoz","Hombre","Lo Barnechea","Evangelico",8512,989,307320,"Planificado",3.22,2025-05-08,1983-06-13
+"18474745","Andres","Sepulveda Diaz","Hombre","Quilicura","Sin Religion",4287,893,206290,"Organizado",1.43,2025-04-26,1988-11-07
+"27123628","Felipe","Hernandez Araya","Hombre","Santiago","Sin Religion",8227,457,184680,"Planificado",8.39,2025-05-14,1999-08-03
+"10160679","Carlos","Araya Hernandez","Hombre","Las Condes","Catolico",4093,751,815790,"Planificado",8.29,2024-12-26,1982-01-13
+"25196934","Constanza","Araya Torres","Mujer","Vitacura","Catolico",7681,242,698080,"Entusiasta",1.14,2024-12-10,1993-01-30
+"20181052","Carolina","Muñoz Rodriguez","Mujer","Santiago","Sin Religion",5677,750,289400,"Entusiasta",6.74,2025-01-29,1992-07-25
+"24507337","Andres","Silva Silva","Hombre","Cerrillos","Catolico",1283,802,528960,"Entusiasta",1.05,2024-11-29,1988-09-28
+"17958206","Antonia","Rojas Muñoz","Mujer","Santiago","Catolico",9342,900,518670,"Planificado",1.81,2025-05-18,2002-03-08
+"11511190","Valentina","Sepulveda Hernandez","Mujer","Providencia","Catolico",9793,352,690420,"Planificado",5.99,2024-11-26,1975-01-30
+"9661162","Miguel","Araya Torres","Hombre","Peñalolen","Catolico",7584,27,353000,"Organizado",2.47,2024-11-24,2003-05-28
+"26907320","Manuel","Flores Araya","Hombre","Puente Alto","Evangelico",2566,157,5950,"Entusiasta",5.62,2024-10-29,1988-04-11
+"24515484","Juan","Rojas Rojas","Hombre","La Florida","Judio",1751,760,144470,"Planificado",1.91,2025-06-08,1978-02-14
+"15481865","Antonia","Muñoz Muñoz","Mujer","La Florida","Sin Religion",5095,520,139010,"Planificado",4.28,2025-09-05,1976-06-24
+"21399914","Miguel","Lopez Morales","Hombre","Lo Barnechea","Evangelico",8683,323,97160,"Planificado",3.71,2025-03-02,2001-07-29
+"25475096","Jose","Rojas Gonzalez","Otro","Pudahuel","Catolico",6601,516,254210,"Organizado",8.22,2025-04-05,1994-12-04
+"11351321","Felipe","Torres Sepulveda","Hombre","Lo Barnechea","Evangelico",5148,465,172390,"Entusiasta",7.76,2025-03-17,1983-05-21
+"22050649","Antonia","Martinez Gonzalez","Mujer","Puente Alto","Sin Religion",2227,450,479490,"Entusiasta",8.95,2024-11-15,2000-07-06
+"18435027","Carolina","Torres Hernandez","Mujer","Pudahuel","Sin Religion",610,842,277500,"Planificado",5.95,2025-01-28,1989-06-03
+"11676616","Daniela","Sepulveda Flores","Mujer","Santiago","Musulman",2189,594,32580,"Planificado",8.56,2025-03-21,1997-01-20
+"14873444","Pedro","Araya Diaz","Hombre","Peñalolen","Catolico",227,280,395410,"Entusiasta",1.33,2025-03-23,1989-03-06
+"26272525","Francisca","Fuentes Muñoz","Mujer","Puente Alto","Sin Religion",4868,517,280440,"Entusiasta",4.87,2025-06-29,1991-11-20
+"22221929","Cristian","Martinez Sepulveda","Hombre","Las Condes","Catolico",8871,69,488150,"Organizado",9.48,2025-03-04,1996-03-16
+"9638938","Manuel","Rojas Gonzalez","Hombre","Las Condes","Catolico",8787,861,250250,"Organizado",5.4,2024-12-01,1987-12-24
+"18030632","Miguel","Diaz Gonzalez","Hombre","Santiago","Evangelico",3803,17,334970,"Planificado",4.12,2025-03-05,1996-02-25
+"21880709","Javier","Gonzalez Silva","Hombre","Ñuñoa","Catolico",4175,662,237590,"Planificado",6.58,2024-10-15,1984-08-18
+"18410844","Francisca","Araya Silva","Mujer","Peñalolen","Catolico",434,321,409710,"Entusiasta",3.63,2025-06-02,1997-05-19
+"17456575","Manuel","Soto Gonzalez","Hombre","Lo Barnechea","Catolico",3437,270,763640,"Compulsivo",1.15,2025-03-22,1993-03-29
+"17636002","Daniela","Sepulveda Sepulveda","Mujer","Vitacura","Catolico",5246,396,1232060,"Organizado",4.17,2025-06-14,1978-08-31
+"18545729","Cristian","Contreras Torres","Hombre","Quilicura","Judio",1009,558,127320,"Planificado",2.42,2024-11-03,2003-11-13
+"8215369","Rocio","Torres Contreras","Mujer","Puente Alto","Catolico",6386,92,260290,"Planificado",9.43,2025-04-05,1984-06-15
+"22734724","Maria","Flores Soto","Mujer","Vitacura","Evangelico",2493,51,1115220,"Compulsivo",8.09,2025-01-22,1988-10-18
+"15634456","Diego","Diaz Fuentes","Hombre","Maipu","Catolico",6256,655,471840,"Compulsivo",5.83,2025-09-17,1979-08-31
+"16889398","Fernanda","Rodriguez Sepulveda","Mujer","Puente Alto","Catolico",681,915,188460,"Organizado",6.38,2025-03-10,1986-12-04
+"22219860","Felipe","Contreras Diaz","Hombre","Santiago","Evangelico",2709,537,366940,"Entusiasta",1.45,2025-03-20,1994-09-05
+"10891409","Francisca","Hernandez Morales","Mujer","Lo Barnechea","Sin Religion",8811,533,816940,"Planificado",1.87,2025-09-30,1983-07-08
+"19090334","Paula","Soto Rodriguez","Mujer","Ñuñoa","Catolico",472,857,446120,"Compulsivo",6.14,2025-07-10,1988-04-08
+"16740550","Juan","Flores Rodriguez","Otro","Providencia","Judio",1528,591,766670,"Organizado",9.11,2025-09-24,1975-05-14
+"19509648","Fernanda","Flores Soto","Mujer","Maipu","Sin Religion",569,605,616780,"Planificado",9.97,2025-07-18,1980-01-10
+"24054188","Fernanda","Fuentes Perez","Mujer","Puente Alto","Catolico",4163,946,544270,"Organizado",7.19,2025-06-13,1995-09-18
+"21030867","Cristian","Soto Torres","Hombre","Providencia","Catolico",6923,872,291450,"Entusiasta",9.09,2025-01-01,1991-01-30
+"21709660","Miguel","Soto Hernandez","Hombre","Puente Alto","Evangelico",6770,434,659680,"Entusiasta",3.46,2025-07-04,1989-06-19
+"24894128","Andres","Torres Martinez","Hombre","Santiago","Catolico",9918,658,241750,"Planificado",3.94,2025-08-27,1994-03-29
+"9538992","Daniela","Morales Gonzalez","Mujer","Las Condes","Catolico",311,904,702120,"Organizado",5.54,2025-03-14,2000-11-27
+"18811070","Luis","Araya Flores","Hombre","Peñalolen","Evangelico",6459,817,200590,"Planificado",3.23,2025-08-05,1978-04-07
+"12928888","Manuel","Silva Sepulveda","Hombre","Providencia","Catolico",5918,959,766850,"Organizado",5.74,2024-12-05,1991-11-12
+"25627305","Felipe","Contreras Araya","Hombre","Peñalolen","Evangelico",1382,431,383210,"Planificado",6.63,2024-10-13,1976-11-21
+"13191138","Carla","Diaz Flores","Mujer","Peñalolen","Sin Religion",4845,375,312410,"Organizado",4.45,2025-02-23,1999-08-21
+"10313178","Javier","Rodriguez Soto","Hombre","Las Condes","Evangelico",5152,640,73880,"Planificado",5.31,2025-05-11,2001-04-17
+"24530774","Matias","Lopez Morales","Hombre","Vitacura","Catolico",6190,817,695010,"Planificado",4.85,2024-10-22,1982-04-25
+"11145153","Constanza","Flores Morales","Mujer","Lo Barnechea","Evangelico",6729,555,731800,"Compulsivo",4.9,2025-07-06,1985-07-10
+"15217942","Valentina","Araya Contreras","Mujer","La Florida","Sin Religion",2738,229,223450,"Planificado",4.97,2025-05-07,1977-01-02
+"22488862","Fernanda","Gonzalez Fuentes","Mujer","Vitacura","Catolico",4994,994,916360,"Organizado",1.22,2025-03-18,1984-10-31
+"22528072","Andres","Soto Soto","Hombre","Quilicura","Catolico",9450,126,632760,"Organizado",7.71,2025-02-06,1975-09-08
+"27125473","Miguel","Muñoz Muñoz","Hombre","La Reina","Catolico",3692,609,418490,"Entusiasta",8.05,2025-08-31,1995-05-22
+"26186105","Matias","Sepulveda Lopez","Hombre","Pudahuel","Evangelico",4243,100,326910,"Compulsivo",8.57,2025-04-14,1988-11-29
+"19219240","Francisca","Flores Rodriguez","Mujer","Puente Alto","Sin Religion",4535,910,506550,"Entusiasta",5.98,2024-11-25,1995-05-06
+"16128298","Daniela","Gonzalez Hernandez","Otro","Santiago","Catolico",1093,337,117830,"Organizado",7.39,2025-08-14,1979-09-27
+"10532588","Javier","Flores Muñoz","Hombre","Las Condes","Judio",8086,692,413030,"Entusiasta",7.59,2025-07-24,1986-11-23
+"18769002","Pedro","Muñoz Soto","Hombre","Vitacura","Catolico",9346,752,641850,"Entusiasta",9.64,2025-07-20,1985-11-21
+"10138194","Luis","Sepulveda Torres","Hombre","Maipu","Catolico",7555,703,325480,"Organizado",4.65,2024-10-27,1976-04-23
+"26144464","Andres","Morales Hernandez","Hombre","Providencia","Sin Religion",3305,158,264600,"Organizado",7.59,2025-06-25,1983-08-23
+"14160162","Valentina","Silva Martinez","Mujer","Santiago","Catolico",6820,637,597080,"Planificado",6.75,2024-12-05,1982-07-07
+"9940696","Andres","Muñoz Muñoz","Hombre","Santiago","Catolico",1086,482,729120,"Planificado",6.64,2025-09-23,1978-03-16
+"15509368","Valentina","Fuentes Hernandez","Mujer","Las Condes","Sin Religion",9834,281,127090,"Organizado",6.74,2025-03-24,1977-08-24
+"19085223","Maria","Diaz Silva","Mujer","Cerrillos","Evangelico",782,472,346200,"Compulsivo",8.2,2025-05-06,1975-01-15
+"9661324","Andres","Flores Perez","Hombre","La Reina","Catolico",2591,758,840900,"Planificado",4.95,2024-10-16,1980-01-07
+"17692124","Jose","Rodriguez Contreras","Hombre","Providencia","Catolico",2547,213,134820,"Entusiasta",5.01,2024-10-13,1984-02-29
+"21183568","Paula","Diaz Flores","Mujer","Santiago","Sin Religion",6923,344,607620,"Entusiasta",5.74,2025-02-23,1982-06-13
+"23184114","Antonia","Araya Araya","Mujer","Ñuñoa","Catolico",7324,88,162850,"Entusiasta",7.91,2025-08-22,2003-09-13
+"14934390","Camila","Sepulveda Lopez","Mujer","Las Condes","Catolico",1266,468,452880,"Planificado",8.84,2025-09-30,1986-06-17
+"8709232","Antonia","Gonzalez Fuentes","Mujer","Vitacura","Catolico",9166,378,464830,"Organizado",9.8,2024-10-21,1994-01-26
+"17175070","Rocio","Fuentes Muñoz","Otro","Lo Barnechea","Sin Religion",8479,296,252400,"Organizado",3.94,2025-05-24,1977-08-18
+"26206813","Carlos","Perez Soto","Hombre","Peñalolen","Evangelico",1479,389,642770,"Entusiasta",4.76,2025-01-20,2000-10-11
+"21217807","Constanza","Lopez Morales","Mujer","Lo Barnechea","Judio",6434,411,1159890,"Planificado",9.74,2025-04-29,1994-02-23
+"20852643","Jose","Hernandez Morales","Hombre","Lo Barnechea","Catolico",8342,601,427020,"Compulsivo",8.65,2025-09-05,1985-05-17
+"19644320","Felipe","Soto Morales","Hombre","Santiago","Sin Religion",9941,630,349060,"Organizado",8.63,2025-02-19,1988-10-05
+"19538955","Manuel","Martinez Contreras","Hombre","Lo Barnechea","Evangelico",5145,624,486000,"Entusiasta",5.59,2025-08-09,1989-02-27
+"12324913","Carlos","Contreras Contreras","Hombre","Maipu","Sin Religion",2518,183,102570,"Planificado",4.14,2025-05-30,1982-02-12
+"21307054","Constanza","Rodriguez Contreras","Mujer","La Reina","Judio",8623,887,35600,"Organizado",3.05,2025-04-14,1985-10-01
+"16740303","Matias","Flores Sepulveda","Hombre","Las Condes","Catolico",452,918,947440,"Entusiasta",9.58,2024-10-17,1994-07-06
+"24192800","Rocio","Rodriguez Torres","Mujer","La Florida","Catolico",3615,699,568360,"Entusiasta",8.84,2025-09-06,1994-11-01
+"11106122","Josefa","Contreras Morales","Mujer","Lo Barnechea","Catolico",2994,269,941840,"Entusiasta",8.93,2025-02-20,1989-07-12
+"14499319","Francisca","Diaz Gonzalez","Mujer","Vitacura","Evangelico",8932,94,390760,"Compulsivo",7.09,2024-11-16,1999-09-12
+"15062828","Daniela","Morales Rodriguez","Mujer","Lo Barnechea","Sin Religion",3495,83,129930,"Entusiasta",9.66,2025-09-30,1976-02-10
+"8643241","Javier","Muñoz Gonzalez","Hombre","Lo Barnechea","Evangelico",5633,175,105410,"Organizado",4.38,2024-10-16,1992-02-21
+"26308443","Paula","Rojas Perez","Mujer","Vitacura","Catolico",3555,672,322820,"Compulsivo",3.68,2024-10-09,1981-02-09
+"21675987","Carla","Rojas Araya","Mujer","Ñuñoa","Evangelico",154,103,174800,"Planificado",9.65,2025-09-08,2000-06-01
+"15057415","Valentina","Perez Gonzalez","Mujer","Providencia","Catolico",1724,935,81870,"Entusiasta",7.43,2025-09-30,1999-04-06
+"15459076","Diego","Perez Muñoz","Hombre","Ñuñoa","Sin Religion",879,243,203830,"Organizado",1.29,2025-04-15,1996-09-07
+"9883441","Juan","Hernandez Gonzalez","Hombre","Lo Barnechea","Sin Religion",2433,333,402830,"Planificado",5.24,2025-06-17,1978-03-27
+"26433608","Constanza","Diaz Martinez","Mujer","Quilicura","Catolico",104,761,586030,"Entusiasta",5.27,2025-06-13,1980-10-12
+"25438582","Constanza","Muñoz Muñoz","Mujer","Pudahuel","Evangelico",1383,173,567220,"Organizado",3.69,2025-04-17,2003-10-28
+"25123039","Javier","Flores Sepulveda","Hombre","La Florida","Sin Religion",6718,504,534100,"Entusiasta",4.76,2025-08-09,1984-04-07
+"21366994","Rocio","Soto Lopez","Mujer","Maipu","Evangelico",708,186,268140,"Organizado",8.49,2024-11-10,2000-08-27
+"22342839","Manuel","Rojas Muñoz","Hombre","Pudahuel","Catolico",3020,270,144860,"Entusiasta",5.03,2025-09-21,2002-03-22
+"15178151","Javier","Sepulveda Lopez","Hombre","Vitacura","Catolico",7833,368,664920,"Entusiasta",2.86,2024-10-14,1990-09-04
+"16717347","Josefa","Flores Lopez","Mujer","Pudahuel","Evangelico",8494,639,561070,"Entusiasta",5.93,2025-07-31,1990-08-21
+"11599849","Fernanda","Sepulveda Lopez","Mujer","Maipu","Catolico",1362,703,167460,"Entusiasta",7.43,2025-09-26,1988-10-19
+"23676282","Carlos","Muñoz Martinez","Hombre","Ñuñoa","Sin Religion",5850,867,767220,"Compulsivo",9.72,2025-10-03,1975-04-14
+"15841629","Luis","Muñoz Rodriguez","Hombre","Vitacura","Catolico",9538,147,753600,"Organizado",2.06,2025-01-10,1999-10-27
+"27910643","Antonia","Gonzalez Rojas","Mujer","Providencia","Catolico",9198,606,396380,"Organizado",1.17,2025-06-21,1989-08-06
+"8647832","Valentina","Silva Soto","Mujer","Quilicura","Catolico",1723,32,552860,"Entusiasta",4.07,2024-12-03,1978-02-04
+"14515816","Cristian","Flores Lopez","Hombre","Pudahuel","Evangelico",8329,528,448910,"Planificado",8.65,2025-05-19,1977-06-14
+"26396547","Cristian","Diaz Torres","Hombre","Providencia","Evangelico",6873,947,220640,"Organizado",9.25,2025-07-23,1990-08-10
+"26185588","Javier","Soto Rojas","Hombre","Lo Barnechea","Evangelico",9923,57,284010,"Planificado",3.01,2024-12-28,1999-09-16
+"23781911","Juan","Martinez Fuentes","Hombre","La Florida","Catolico",2433,322,70730,"Planificado",1.27,2025-06-19,1992-11-13
+"18903086","Constanza","Lopez Fuentes","Mujer","Vitacura","Catolico",6416,372,280560,"Compulsivo",8.44,2025-01-17,1997-05-02
+"10402989","Cristian","Fuentes Fuentes","Hombre","San Bernardo","Catolico",2689,130,370290,"Planificado",4.54,2025-05-16,2003-08-04
+"11511598","Valentina","Lopez Araya","Mujer","Providencia","Catolico",6312,417,67960,"Entusiasta",3.95,2025-02-23,1979-07-09
+"21504399","Diego","Contreras Martinez","Hombre","Puente Alto","Sin Religion",8809,194,520390,"Planificado",2.01,2024-12-18,1988-10-09
+"9187527","Andres","Diaz Torres","Hombre","La Reina","Catolico",6101,280,1304860,"Organizado",8.25,2024-11-16,1984-10-03
+"18412409","Daniela","Martinez Diaz","Mujer","Quilicura","Evangelico",6365,122,445620,"Organizado",4.3,2024-11-17,1981-03-10
+"10381414","Luis","Martinez Rodriguez","Hombre","La Florida","Sin Religion",5308,135,589990,"Entusiasta",4.71,2024-11-16,1988-01-06
+"23927343","Matias","Muñoz Rojas","Hombre","Ñuñoa","Evangelico",4147,694,8840,"Compulsivo",2.9,2024-12-22,1990-02-22
+"20300221","Miguel","Rodriguez Fuentes","Hombre","Lo Barnechea","Catolico",7085,510,93590,"Organizado",3.44,2024-10-16,1989-01-08
+"17096490","Cristian","Martinez Lopez","Hombre","Pudahuel","Sin Religion",6870,610,658560,"Organizado",7.54,2025-04-01,2001-03-05
+"20345289","Fernanda","Martinez Fuentes","Mujer","Providencia","Sin Religion",9038,246,372940,"Compulsivo",1.99,2024-11-16,2000-12-28
+"13488958","Juan","Flores Flores","Hombre","Ñuñoa","Sin Religion",8397,520,291370,"Compulsivo",5.75,2024-10-27,1999-04-12
+"19340621","Felipe","Martinez Sepulveda","Hombre","Lo Barnechea","Evangelico",6458,198,9e+05,"Planificado",2.43,2025-06-29,1978-11-04
+"16478839","Pedro","Silva Sepulveda","Hombre","Ñuñoa","Catolico",8112,212,760320,"Organizado",2.36,2025-08-07,1983-02-01
+"21065546","Constanza","Sepulveda Flores","Mujer","Providencia","Catolico",1272,886,177240,"Organizado",4.23,2025-04-20,1995-11-20
+"9366456","Josefa","Muñoz Torres","Mujer","Peñalolen","Sin Religion",3834,810,717110,"Planificado",8.36,2025-01-08,1979-03-21
+"20996082","Carlos","Muñoz Lopez","Hombre","Santiago","Catolico",8019,387,383680,"Entusiasta",5.36,2025-05-13,1981-03-12
+"13691463","Francisca","Perez Rodriguez","Mujer","La Reina","Catolico",8804,202,228640,"Entusiasta",4.05,2025-06-03,2003-07-12
+"18762320","Cristian","Sepulveda Martinez","Hombre","Ñuñoa","Catolico",7275,753,705170,"Organizado",7.27,2025-04-13,1983-11-19
+"11588229","Daniela","Muñoz Sepulveda","Mujer","Vitacura","Catolico",4913,924,1093640,"Planificado",2.23,2025-05-01,2000-05-26
+"8380031","Javier","Soto Sepulveda","Otro","Maipu","Evangelico",6584,9,186160,"Organizado",5.23,2025-05-04,1994-05-06
+"26849840","Carla","Diaz Muñoz","Mujer","La Florida","Evangelico",8879,125,32490,"Compulsivo",6.03,2025-05-30,1989-08-07
+"22816731","Rocio","Sepulveda Soto","Mujer","La Florida","Catolico",9390,559,159030,"Organizado",9.02,2025-02-11,1999-12-01
+"23637843","Cristian","Silva Muñoz","Hombre","La Florida","Evangelico",1525,256,408740,"Planificado",1.94,2025-06-02,1980-09-04
+"20643012","Carlos","Flores Lopez","Hombre","Maipu","Sin Religion",1019,957,135970,"Compulsivo",1.97,2025-02-23,1990-01-01
+"17689985","Juan","Torres Hernandez","Hombre","Cerrillos","Sin Religion",2906,949,258920,"Planificado",4.56,2025-08-14,2003-01-26
+"20389999","Paula","Muñoz Flores","Mujer","La Reina","Evangelico",3572,155,1277410,"Entusiasta",7.39,2025-08-14,1976-03-07
+"20474813","Jose","Rodriguez Flores","Hombre","Santiago","Sin Religion",5607,156,504140,"Entusiasta",4.79,2025-01-22,1995-08-20
+"15786098","Pedro","Torres Morales","Hombre","Providencia","Catolico",8259,305,384580,"Compulsivo",8.38,2025-01-17,1993-02-04
+"8636530","Javier","Fuentes Contreras","Hombre","Las Condes","Catolico",9828,82,1394120,"Planificado",1.68,2025-03-07,1978-10-29
+"11806000","Andres","Gonzalez Fuentes","Hombre","Lo Barnechea","Catolico",2099,469,977420,"Entusiasta",7.26,2025-01-24,1976-06-27
+"27105140","Luis","Araya Flores","Hombre","Las Condes","Catolico",9776,240,510520,"Entusiasta",6.81,2025-09-16,1991-03-09
+"9460338","Miguel","Flores Soto","Hombre","Las Condes","Catolico",1501,920,167980,"Entusiasta",5.04,2025-05-04,2001-03-23
+"16598453","Valentina","Martinez Muñoz","Mujer","La Reina","Catolico",8930,161,1478940,"Entusiasta",5.61,2024-11-24,1988-07-03
+"21296373","Maria","Soto Torres","Mujer","Pudahuel","Evangelico",3958,611,737580,"Compulsivo",3.76,2025-01-04,1981-05-23
+"19616506","Maria","Silva Flores","Mujer","Lo Barnechea","Sin Religion",6520,528,835900,"Organizado",5.6,2025-07-04,1988-10-09
+"11121794","Juan","Silva Martinez","Hombre","Puente Alto","Catolico",9868,298,687930,"Organizado",1.71,2024-11-19,1984-12-29
+"10106333","Carla","Sepulveda Martinez","Mujer","Lo Barnechea","Catolico",8965,292,1001230,"Entusiasta",9.28,2025-05-13,1987-01-03
+"18589505","Javier","Flores Gonzalez","Hombre","Lo Barnechea","Evangelico",4187,853,895240,"Organizado",1.55,2025-02-09,1991-09-21
+"12135079","Andres","Torres Muñoz","Hombre","San Bernardo","Evangelico",2175,252,672200,"Compulsivo",8.67,2025-02-09,1989-02-26
+"13063320","Camila","Silva Flores","Mujer","Vitacura","Evangelico",3991,200,1380340,"Organizado",7.82,2025-10-04,1987-10-09
+"22465719","Francisca","Morales Soto","Mujer","Ñuñoa","Sin Religion",7322,799,642100,"Planificado",1.39,2025-02-11,1981-11-30
+"18510955","Carla","Hernandez Flores","Mujer","Providencia","Catolico",8434,305,613990,"Planificado",4.38,2024-12-11,1994-08-16
+"19803550","Felipe","Contreras Rojas","Hombre","San Bernardo","Catolico",2180,208,311300,"Organizado",1.29,2025-07-19,1987-10-28
+"27773383","Camila","Rojas Araya","Mujer","La Florida","Catolico",8607,214,86550,"Organizado",1.58,2025-03-08,1985-05-25
+"9564475","Maria","Flores Muñoz","Mujer","Santiago","Sin Religion",2459,573,215880,"Organizado",1.37,2025-05-08,1999-11-27
+"22982367","Luis","Flores Muñoz","Hombre","Santiago","Evangelico",598,36,364210,"Compulsivo",7.27,2025-05-23,1990-03-30
+"25827289","Francisca","Flores Soto","Mujer","Quilicura","Catolico",3835,760,124600,"Organizado",5.05,2024-11-18,1992-05-25
+"20247032","Jose","Gonzalez Soto","Hombre","La Reina","Evangelico",8930,507,649280,"Entusiasta",8.07,2025-04-27,2001-10-02
+"9462489","Daniela","Diaz Fuentes","Mujer","Maipu","Sin Religion",1917,639,254480,"Organizado",5.99,2025-06-09,1982-08-18
+"16847438","Jose","Sepulveda Gonzalez","Hombre","Ñuñoa","Catolico",9041,267,441750,"Entusiasta",1.14,2025-01-01,1984-11-10
+"18721516","Miguel","Soto Diaz","Hombre","Puente Alto","Evangelico",2198,842,145090,"Compulsivo",2.66,2024-12-19,1987-10-09
+"12359974","Carla","Diaz Lopez","Mujer","Las Condes","Evangelico",5883,732,396100,"Entusiasta",9.7,2025-10-04,1982-08-07
+"26563033","Carla","Silva Hernandez","Mujer","Lo Barnechea","Catolico",5019,100,282940,"Entusiasta",2.13,2025-07-04,1996-10-02
+"21636182","Juan","Torres Morales","Hombre","La Reina","Evangelico",9576,824,440160,"Organizado",9.02,2025-02-13,1979-04-05
+"19828581","Matias","Contreras Contreras","Hombre","Quilicura","Sin Religion",7418,44,705760,"Compulsivo",5.1,2024-12-14,1977-07-09
+"17036652","Andres","Gonzalez Rodriguez","Otro","La Reina","Sin Religion",7077,764,780500,"Entusiasta",1.92,2025-09-29,1983-06-19
+"22264135","Maria","Torres Diaz","Mujer","Pudahuel","Sin Religion",6735,260,91400,"Planificado",5.78,2025-02-22,1995-06-07
+"16310824","Manuel","Muñoz Rojas","Hombre","Puente Alto","Evangelico",8277,298,131640,"Planificado",2.9,2025-06-15,1995-12-22
+"25288888","Cristian","Silva Araya","Hombre","Santiago","Catolico",7569,370,354320,"Planificado",1.04,2024-12-28,1979-03-31
+"21123635","Jose","Lopez Soto","Hombre","Ñuñoa","Catolico",4450,463,384560,"Entusiasta",6.24,2024-10-09,1999-12-10
+"22706754","Matias","Rojas Muñoz","Hombre","Cerrillos","Evangelico",9864,172,184290,"Compulsivo",8.47,2025-09-26,1985-03-09
+"18997505","Josefa","Torres Soto","Mujer","Lo Barnechea","Sin Religion",1274,955,1062610,"Planificado",6.78,2025-01-17,1990-12-31
+"12248008","Juan","Lopez Hernandez","Hombre","Cerrillos","Musulman",9476,194,504020,"Planificado",9.7,2024-10-02,1975-11-16
+"9246413","Diego","Rodriguez Fuentes","Hombre","Vitacura","Catolico",1784,828,772840,"Entusiasta",2.05,2025-05-04,1991-11-06
+"16120911","Rocio","Perez Silva","Mujer","Puente Alto","Catolico",1894,275,295270,"Entusiasta",6.72,2025-03-06,1983-09-19
+"25205987","Antonia","Diaz Rojas","Mujer","Quilicura","Sin Religion",7238,192,111700,"Compulsivo",3.36,2025-09-06,1985-05-14
+"10915659","Jose","Torres Silva","Hombre","Providencia","Catolico",6725,17,60440,"Entusiasta",1.03,2025-08-15,1994-09-23
+"26376794","Francisca","Rodriguez Silva","Mujer","La Reina","Judio",9559,365,1006290,"Planificado",9.99,2025-01-03,1982-09-07
+"17193427","Felipe","Torres Soto","Hombre","Ñuñoa","Sin Religion",3371,302,244330,"Planificado",4.84,2024-12-18,2001-02-09
+"16995421","Constanza","Gonzalez Morales","Mujer","Pudahuel","Catolico",1785,713,15250,"Planificado",8.43,2025-08-22,1998-08-15
+"16281512","Luis","Araya Diaz","Hombre","Providencia","Catolico",9373,392,249060,"Organizado",3.43,2025-05-26,1993-11-06
+"25501191","Valentina","Torres Morales","Mujer","Las Condes","Sin Religion",6063,309,1038320,"Compulsivo",9.26,2024-10-22,1997-04-02
+"25726034","Paula","Soto Diaz","Mujer","La Reina","Musulman",1723,237,245520,"Entusiasta",2.35,2024-10-16,1979-08-17
+"18924530","Antonia","Perez Araya","Mujer","Las Condes","Catolico",2135,299,1124130,"Entusiasta",2.92,2024-11-25,1980-12-01
+"24704086","Cristian","Muñoz Diaz","Hombre","La Florida","Catolico",198,613,499180,"Entusiasta",9.17,2025-07-19,1996-09-18
+"15938978","Constanza","Contreras Rojas","Mujer","Maipu","Catolico",8909,499,618900,"Entusiasta",4.41,2025-03-31,1985-11-29
+"25010633","Josefa","Fuentes Gonzalez","Mujer","La Florida","Catolico",9612,110,99780,"Organizado",1.58,2025-06-05,1985-08-07
+"13263279","Andres","Hernandez Hernandez","Hombre","Providencia","Catolico",4119,440,158940,"Entusiasta",1.79,2025-01-31,1978-11-22
+"25300916","Camila","Torres Torres","Mujer","Pudahuel","Evangelico",4930,772,465530,"Planificado",3.47,2025-04-03,1978-02-20
+"12330347","Manuel","Contreras Muñoz","Hombre","Ñuñoa","Evangelico",6489,253,469070,"Entusiasta",6.77,2025-05-07,1989-05-13
+"23580132","Josefa","Diaz Flores","Mujer","Santiago","Sin Religion",3980,692,710400,"Entusiasta",7.63,2025-06-14,1997-03-24
+"25679771","Fernanda","Diaz Morales","Mujer","Ñuñoa","Catolico",1949,205,249980,"Organizado",5.32,2025-05-14,1987-02-24
+"16763528","Maria","Sepulveda Gonzalez","Mujer","Puente Alto","Musulman",509,579,70320,"Planificado",1.23,2025-04-04,2003-08-22
+"18523251","Carla","Sepulveda Lopez","Mujer","Quilicura","Catolico",7913,110,271600,"Planificado",9.91,2024-11-22,1998-01-16
+"10992191","Luis","Gonzalez Gonzalez","Hombre","La Florida","Evangelico",6081,292,421060,"Entusiasta",4.67,2025-03-19,1985-10-18
+"9186020","Fernanda","Fuentes Rojas","Mujer","Las Condes","Musulman",9473,121,688920,"Entusiasta",4.38,2025-07-01,1985-09-16
+"14405248","Valentina","Diaz Rodriguez","Mujer","Ñuñoa","Sin Religion",8655,581,515160,"Entusiasta",4.63,2025-09-12,1980-01-17
+"22360243","Carolina","Silva Torres","Mujer","Santiago","Evangelico",8168,185,649910,"Planificado",5.54,2025-08-24,1989-01-15
+"22500675","Luis","Morales Gonzalez","Hombre","Peñalolen","Catolico",2706,721,309550,"Entusiasta",2.59,2025-09-22,1982-08-09
+"15938378","Cristian","Soto Muñoz","Hombre","Santiago","Evangelico",3935,418,127310,"Organizado",2.56,2025-01-08,1978-08-16
+"27034016","Pedro","Araya Diaz","Otro","Puente Alto","Evangelico",6112,657,343510,"Compulsivo",4.54,2024-11-07,1980-11-14
+"23081156","Fernanda","Rodriguez Perez","Mujer","Providencia","Evangelico",7753,522,684420,"Entusiasta",6.32,2025-03-14,1986-09-20
+"19012824","Pedro","Gonzalez Rojas","Hombre","Puente Alto","Catolico",8468,644,698370,"Planificado",7.69,2024-11-26,1975-07-06
+"11163476","Carolina","Rojas Muñoz","Otro","Peñalolen","Sin Religion",3701,314,785370,"Organizado",2.95,2025-02-16,1992-07-28
+"12463935","Miguel","Soto Silva","Hombre","Peñalolen","Catolico",2162,238,509160,"Organizado",4.57,2024-11-19,1976-12-12
+"8076661","Paula","Muñoz Sepulveda","Mujer","Quilicura","Catolico",208,241,546620,"Organizado",2.35,2025-08-02,1982-08-01
+"25925891","Miguel","Silva Perez","Hombre","La Reina","Judio",3639,699,42830,"Compulsivo",4.96,2025-02-22,1986-04-10
+"14925422","Constanza","Muñoz Perez","Mujer","Quilicura","Sin Religion",1506,32,300990,"Compulsivo",5.13,2025-06-07,1990-12-19
+"12694464","Jose","Fuentes Diaz","Hombre","Lo Barnechea","Catolico",841,122,602410,"Entusiasta",6.27,2025-01-07,1998-10-24
+"22951946","Constanza","Araya Hernandez","Mujer","Lo Barnechea","Evangelico",7252,581,176160,"Planificado",2.65,2024-12-29,1996-02-06
+"21562190","Daniela","Soto Rojas","Mujer","Puente Alto","Evangelico",8242,462,295720,"Planificado",8.7,2025-05-04,1994-07-23
+"14895886","Constanza","Diaz Hernandez","Mujer","Providencia","Catolico",9713,355,38620,"Organizado",2.75,2025-03-18,2000-05-06
+"21550003","Felipe","Contreras Contreras","Hombre","Santiago","Evangelico",7235,650,250190,"Organizado",6.04,2025-02-18,2002-09-12
+"27095938","Javier","Flores Hernandez","Hombre","Vitacura","Catolico",2431,470,972680,"Entusiasta",7.25,2025-09-23,1976-06-15
+"25222723","Juan","Flores Muñoz","Hombre","Ñuñoa","Evangelico",4641,474,431690,"Entusiasta",1.96,2025-06-21,1992-05-12
+"15834343","Juan","Torres Morales","Hombre","Peñalolen","Catolico",778,133,415050,"Planificado",8.76,2025-04-14,1985-05-15
+"11446116","Pedro","Gonzalez Silva","Hombre","Cerrillos","Evangelico",2434,513,564000,"Compulsivo",9.85,2025-08-16,2000-05-16
+"26318053","Matias","Soto Muñoz","Hombre","Las Condes","Evangelico",7642,178,189260,"Entusiasta",8.27,2025-08-21,1983-10-02
+"8660041","Juan","Silva Flores","Hombre","Providencia","Catolico",3481,815,150840,"Organizado",6.77,2024-10-15,1996-07-22
+"24715100","Rocio","Rojas Fuentes","Mujer","Maipu","Catolico",6160,146,221970,"Compulsivo",5.48,2025-08-09,1983-04-23
+"13764511","Juan","Soto Sepulveda","Hombre","La Reina","Catolico",9092,330,763490,"Entusiasta",8.08,2025-08-17,1981-07-10
+"12805070","Pedro","Torres Rojas","Hombre","Vitacura","Catolico",1373,752,405310,"Entusiasta",5.83,2025-01-26,1978-03-04
+"23862459","Javier","Muñoz Muñoz","Hombre","Lo Barnechea","Catolico",4163,719,703350,"Entusiasta",6.16,2025-09-18,1991-09-07
+"26799433","Matias","Fuentes Soto","Hombre","Pudahuel","Catolico",3409,337,167260,"Organizado",3.02,2024-10-08,1999-07-28
+"19317050","Constanza","Soto Morales","Mujer","Vitacura","Sin Religion",8743,468,845810,"Entusiasta",7.24,2025-07-28,1986-08-09
+"26320895","Carolina","Gonzalez Rodriguez","Mujer","Puente Alto","Evangelico",4128,602,366660,"Entusiasta",6.54,2025-02-11,1987-06-13
+"27056881","Javier","Diaz Flores","Hombre","Providencia","Evangelico",3306,471,793730,"Planificado",2.84,2025-03-14,1978-02-10
+"25380415","Miguel","Morales Contreras","Hombre","San Bernardo","Sin Religion",1725,263,56430,"Entusiasta",8.57,2025-02-15,1975-02-16
+"27474591","Carolina","Hernandez Lopez","Mujer","Quilicura","Catolico",7915,880,664950,"Planificado",2,2025-08-19,2001-02-10
+"18936198","Luis","Muñoz Lopez","Hombre","Ñuñoa","Sin Religion",1155,754,159930,"Compulsivo",2.49,2025-07-24,1996-09-24
+"18814992","Valentina","Gonzalez Morales","Mujer","Puente Alto","Sin Religion",4180,270,532930,"Entusiasta",9.02,2025-07-14,1979-08-30
+"13131734","Cristian","Sepulveda Lopez","Otro","Puente Alto","Catolico",9154,277,221610,"Planificado",8.57,2025-05-11,1991-01-09
+"22814017","Maria","Rodriguez Fuentes","Mujer","Santiago","Sin Religion",1137,939,584790,"Compulsivo",3.75,2024-12-03,1990-11-12
+"23887624","Miguel","Soto Sepulveda","Hombre","San Bernardo","Catolico",5592,428,298850,"Organizado",3.32,2024-11-30,1985-08-22
+"9471256","Valentina","Fuentes Torres","Mujer","La Reina","Catolico",6150,845,829370,"Planificado",5.74,2025-02-27,1998-12-24
+"15311815","Matias","Gonzalez Lopez","Hombre","Maipu","Catolico",8651,367,311080,"Planificado",7,2025-03-28,1986-02-22
+"14036968","Carolina","Flores Gonzalez","Mujer","Lo Barnechea","Evangelico",6238,749,655900,"Entusiasta",8.5,2025-06-16,1979-12-21
+"26119286","Carlos","Contreras Contreras","Hombre","Ñuñoa","Catolico",8518,863,740890,"Organizado",1.74,2024-10-27,1990-09-01
+"11083208","Miguel","Morales Rojas","Hombre","Quilicura","Catolico",3352,417,770930,"Entusiasta",2.84,2025-04-03,2001-05-17
+"14857898","Manuel","Contreras Torres","Hombre","Puente Alto","Catolico",2042,972,770620,"Compulsivo",6.11,2024-11-09,1998-11-16
+"19993546","Paula","Fuentes Sepulveda","Mujer","La Florida","Catolico",6563,508,587160,"Organizado",7.61,2024-12-19,1994-08-09
+"8224070","Valentina","Flores Araya","Mujer","Providencia","Evangelico",6059,65,276030,"Planificado",9.15,2025-10-01,1975-12-24
+"24105952","Valentina","Perez Gonzalez","Mujer","Quilicura","Evangelico",9116,58,496200,"Planificado",3.62,2025-04-14,1978-05-10
+"24346853","Constanza","Fuentes Diaz","Mujer","Providencia","Evangelico",9935,431,311590,"Compulsivo",5.22,2025-07-07,1984-07-22
+"13519689","Valentina","Rodriguez Muñoz","Mujer","Maipu","Sin Religion",2561,189,11350,"Compulsivo",3.55,2025-02-01,1989-04-03
+"15890545","Carla","Silva Muñoz","Mujer","Ñuñoa","Musulman",4171,471,334590,"Entusiasta",1.51,2025-04-03,1987-03-27
+"20768354","Javier","Contreras Perez","Hombre","Puente Alto","Evangelico",2844,395,560840,"Entusiasta",3.37,2025-09-27,2000-09-14
+"14382649","Carolina","Diaz Perez","Mujer","Quilicura","Evangelico",757,341,429950,"Organizado",9.54,2024-12-14,2002-06-27
+"8825351","Javier","Gonzalez Fuentes","Hombre","Vitacura","Catolico",5976,603,470520,"Organizado",9.1,2025-05-31,1984-05-24
+"24898682","Luis","Muñoz Contreras","Hombre","La Reina","Sin Religion",2639,357,836460,"Organizado",2.85,2025-06-15,1996-03-03
+"25136214","Daniela","Gonzalez Muñoz","Mujer","Puente Alto","Sin Religion",1573,899,580730,"Compulsivo",9.15,2025-03-08,1978-08-14
+"9067935","Carla","Perez Fuentes","Mujer","Santiago","Catolico",2679,674,42120,"Planificado",2.47,2025-08-25,1984-01-02
+"21463750","Juan","Morales Diaz","Hombre","Pudahuel","Sin Religion",9542,396,678250,"Entusiasta",9.25,2025-07-07,2003-05-22
+"13003079","Josefa","Silva Rodriguez","Mujer","Lo Barnechea","Catolico",6000,916,1014470,"Planificado",3.42,2025-02-06,1978-02-26
+"23320592","Matias","Martinez Silva","Hombre","La Florida","Catolico",1970,827,301220,"Organizado",7.48,2024-10-22,1994-05-05
+"9231600","Fernanda","Torres Torres","Mujer","Las Condes","Sin Religion",5993,888,994210,"Planificado",2.44,2025-01-13,1978-04-09
+"22251162","Felipe","Lopez Gonzalez","Hombre","Santiago","Evangelico",9264,830,322580,"Entusiasta",1.12,2025-08-04,1981-04-02
+"21667872","Luis","Araya Hernandez","Hombre","Ñuñoa","Sin Religion",4054,678,85510,"Entusiasta",6.2,2025-03-22,1988-06-10
+"17642330","Carla","Fuentes Morales","Mujer","Puente Alto","Catolico",6270,767,79800,"Compulsivo",7.47,2025-09-11,1976-07-29
+"27500105","Maria","Morales Flores","Mujer","La Florida","Catolico",1813,711,119090,"Compulsivo",6.67,2025-05-28,1977-03-05
+"11444542","Carlos","Araya Araya","Hombre","Santiago","Judio",4389,292,447320,"Organizado",9.76,2025-04-10,1999-09-20
+"24156017","Constanza","Sepulveda Rojas","Mujer","Ñuñoa","Catolico",4671,255,167160,"Planificado",4.23,2025-02-22,1980-08-16
+"9119083","Carla","Flores Diaz","Mujer","Santiago","Evangelico",9049,491,190870,"Organizado",6.12,2025-03-18,1983-03-05
+"10818907","Felipe","Fuentes Gonzalez","Hombre","Ñuñoa","Evangelico",7179,457,306430,"Compulsivo",8.15,2024-11-25,1996-01-01
+"9375772","Rocio","Rodriguez Lopez","Mujer","Providencia","Sin Religion",2303,446,422160,"Organizado",1.25,2024-10-22,1979-08-27
+"13474838","Paula","Martinez Araya","Mujer","Puente Alto","Catolico",4091,648,554080,"Planificado",7.05,2025-06-16,1985-12-08
+"10705092","Carlos","Diaz Torres","Hombre","Vitacura","Evangelico",8580,142,814890,"Entusiasta",8.91,2025-01-01,1981-07-26
+"20664401","Miguel","Araya Soto","Hombre","Pudahuel","Catolico",7784,697,332040,"Entusiasta",1.9,2025-04-01,1987-06-07
+"12140108","Valentina","Morales Contreras","Mujer","Ñuñoa","Evangelico",7866,318,23050,"Organizado",7.02,2025-08-04,1978-06-14
+"14971058","Miguel","Diaz Contreras","Otro","San Bernardo","Catolico",6962,539,529420,"Compulsivo",7.71,2025-10-04,1985-01-01
+"25375944","Daniela","Martinez Fuentes","Mujer","Santiago","Sin Religion",5730,890,458180,"Compulsivo",3.57,2025-09-24,1981-01-24
+"21094124","Carla","Flores Hernandez","Mujer","Vitacura","Judio",4989,510,475560,"Planificado",1.87,2025-05-14,1989-04-04
+"15285764","Carolina","Araya Perez","Mujer","Ñuñoa","Catolico",3626,382,59930,"Planificado",1.83,2025-01-06,1991-10-10
+"14505882","Valentina","Rodriguez Torres","Mujer","Ñuñoa","Sin Religion",1409,55,373700,"Compulsivo",5.2,2025-04-29,1978-07-07
+"17337577","Carolina","Martinez Gonzalez","Mujer","Santiago","Catolico",7233,238,89310,"Compulsivo",4.47,2025-03-02,1994-10-01
+"14689849","Josefa","Torres Sepulveda","Mujer","Ñuñoa","Sin Religion",4720,544,516550,"Entusiasta",4.53,2025-01-26,1997-02-12
+"26792913","Josefa","Lopez Hernandez","Mujer","Vitacura","Catolico",8220,792,387740,"Entusiasta",7.23,2025-02-24,2000-07-29
+"9155042","Pedro","Contreras Diaz","Hombre","Puente Alto","Evangelico",9093,103,429280,"Organizado",2.91,2025-03-31,1989-04-17
+"25349198","Javier","Rojas Hernandez","Hombre","Vitacura","Evangelico",6101,406,115360,"Entusiasta",1.72,2025-03-17,1984-10-09
+"16508298","Carolina","Rodriguez Flores","Mujer","Ñuñoa","Sin Religion",2331,510,709730,"Planificado",8.83,2024-12-29,1999-05-13
+"20805159","Manuel","Torres Martinez","Hombre","Santiago","Catolico",7008,806,567240,"Entusiasta",4.69,2025-07-09,1977-11-05
+"17649802","Constanza","Gonzalez Gonzalez","Mujer","Vitacura","Evangelico",5687,341,601850,"Compulsivo",5.59,2025-09-20,1992-06-05
+"14066558","Diego","Morales Gonzalez","Hombre","Ñuñoa","Catolico",6277,851,380610,"Entusiasta",7.53,2024-11-03,1990-01-01
+"10527382","Diego","Gonzalez Silva","Hombre","Puente Alto","Evangelico",8529,23,444930,"Compulsivo",7.28,2025-06-30,1994-02-16
+"13165526","Pedro","Perez Araya","Hombre","Peñalolen","Sin Religion",9962,911,482320,"Entusiasta",2.66,2024-11-29,1982-07-01
+"18993824","Daniela","Torres Rojas","Mujer","Santiago","Catolico",9079,9,197520,"Organizado",5.34,2025-02-18,1991-09-12
+"9852024","Rocio","Rojas Flores","Mujer","Lo Barnechea","Catolico",4957,563,657250,"Entusiasta",8,2025-07-03,1988-06-13
+"23755205","Pedro","Hernandez Perez","Hombre","Las Condes","Catolico",5168,863,323250,"Planificado",2.69,2025-04-19,1975-12-31
+"18023977","Josefa","Silva Diaz","Mujer","Providencia","Sin Religion",5936,719,397550,"Planificado",6.4,2024-11-05,2000-03-13
+"10859231","Juan","Araya Silva","Hombre","San Bernardo","Evangelico",9215,997,577180,"Organizado",7.48,2024-11-15,1986-11-16
+"8467855","Valentina","Perez Torres","Mujer","Maipu","Catolico",4543,710,67800,"Entusiasta",6.91,2025-08-02,2001-06-29
+"10529631","Constanza","Martinez Diaz","Mujer","Peñalolen","Sin Religion",5124,361,466400,"Organizado",2.91,2024-12-06,1988-11-07
+"22211767","Carla","Sepulveda Sepulveda","Mujer","Vitacura","Catolico",6373,348,674880,"Compulsivo",6.02,2024-10-12,1989-10-08
+"19154882","Juan","Lopez Lopez","Hombre","Providencia","Catolico",2790,335,694150,"Entusiasta",8.22,2025-03-17,1991-04-22
+"11618069","Valentina","Perez Torres","Mujer","Peñalolen","Catolico",540,510,323080,"Planificado",1.38,2025-05-19,1975-02-25
+"14427277","Carolina","Gonzalez Contreras","Mujer","Providencia","Catolico",4073,260,127650,"Compulsivo",9.93,2025-03-26,1985-07-21
+"22961014","Carolina","Rodriguez Soto","Mujer","La Reina","Catolico",4234,760,417160,"Entusiasta",9.51,2025-01-16,1983-01-08
+"12192497","Carlos","Lopez Rojas","Hombre","Providencia","Sin Religion",5048,681,235740,"Organizado",6.71,2025-03-30,1989-12-30
+"26310877","Constanza","Muñoz Silva","Mujer","Santiago","Catolico",5126,616,104330,"Planificado",5.3,2025-03-02,1993-06-27
+"8518803","Paula","Sepulveda Flores","Mujer","La Florida","Catolico",2371,295,203110,"Planificado",7.75,2025-05-23,1982-03-25
+"13596593","Antonia","Perez Fuentes","Mujer","Puente Alto","Evangelico",403,731,237990,"Compulsivo",9.83,2025-06-11,1980-08-30
+"9090184","Andres","Rojas Flores","Hombre","Providencia","Catolico",235,586,583980,"Compulsivo",7.02,2025-03-06,2002-02-09
+"18630628","Maria","Perez Sepulveda","Mujer","La Florida","Sin Religion",1130,140,22060,"Organizado",4.02,2025-08-13,1984-06-26
+"20067471","Carolina","Lopez Hernandez","Mujer","Ñuñoa","Evangelico",4665,619,676960,"Organizado",9.05,2024-10-31,1988-09-18
+"25613859","Andres","Lopez Rodriguez","Hombre","Lo Barnechea","Evangelico",6844,710,843730,"Organizado",4.84,2024-11-21,2002-11-05
+"19416054","Josefa","Hernandez Rodriguez","Mujer","Las Condes","Sin Religion",923,651,554490,"Planificado",1.95,2024-11-24,2000-08-19
+"18026268","Luis","Soto Hernandez","Hombre","Santiago","Judio",1461,777,490660,"Entusiasta",8.92,2025-04-29,2001-08-08
+"17644124","Carolina","Gonzalez Rodriguez","Mujer","Santiago","Catolico",5201,796,27350,"Organizado",2.52,2025-02-02,1989-05-29
+"25599180","Antonia","Sepulveda Soto","Mujer","Ñuñoa","Catolico",1734,147,502460,"Planificado",9.52,2024-10-16,1976-09-21
+"18682294","Carla","Flores Rodriguez","Mujer","Las Condes","Sin Religion",5612,448,332490,"Organizado",5.77,2025-03-27,2000-01-06
+"11657804","Josefa","Morales Muñoz","Mujer","Peñalolen","Catolico",5632,659,78420,"Entusiasta",3.24,2025-04-13,1983-03-30
+"19268679","Constanza","Flores Morales","Mujer","Lo Barnechea","Catolico",107,514,1224160,"Planificado",5.29,2025-05-01,1999-07-10
+"16226213","Diego","Hernandez Fuentes","Hombre","La Florida","Sin Religion",8078,214,443080,"Compulsivo",4.22,2024-12-13,1987-11-02
+"17953999","Daniela","Contreras Rodriguez","Mujer","La Florida","Catolico",9482,227,663240,"Entusiasta",2.12,2025-09-30,1976-02-17
+"12852310","Juan","Rojas Flores","Hombre","Santiago","Sin Religion",306,441,504440,"Compulsivo",4.06,2025-07-29,1997-04-02
+"14109663","Daniela","Perez Flores","Mujer","La Reina","Evangelico",1294,559,1344080,"Planificado",1.36,2025-02-24,1978-05-28
+"27875598","Constanza","Hernandez Araya","Mujer","La Florida","Evangelico",7473,237,308390,"Organizado",8.06,2025-02-19,1997-03-29
+"13616681","Josefa","Contreras Martinez","Mujer","La Reina","Evangelico",8510,118,85500,"Planificado",3.87,2025-09-05,1998-08-12
+"14508456","Rocio","Torres Rojas","Mujer","Lo Barnechea","Judio",924,55,509230,"Organizado",7.42,2025-08-20,2001-01-21
+"9593949","Andres","Perez Flores","Hombre","Maipu","Catolico",7202,860,312370,"Organizado",9.55,2025-05-29,1997-08-23
+"27154815","Francisca","Torres Araya","Mujer","Vitacura","Judio",9873,481,445820,"Entusiasta",3.72,2024-12-17,1993-11-09
+"9706696","Manuel","Sepulveda Morales","Hombre","Maipu","Catolico",3273,625,694880,"Organizado",9.89,2024-10-12,1979-02-06
+"21810210","Carlos","Gonzalez Silva","Hombre","Cerrillos","Catolico",7350,554,531640,"Entusiasta",2.41,2025-06-21,1980-10-17
+"21557168","Cristian","Diaz Hernandez","Otro","Ñuñoa","Evangelico",9602,888,409090,"Planificado",8.18,2025-02-27,1987-06-20
+"27021468","Fernanda","Martinez Hernandez","Mujer","Santiago","Catolico",6572,952,228200,"Compulsivo",6.03,2025-06-15,1994-11-01
+"10172284","Matias","Perez Silva","Hombre","Lo Barnechea","Evangelico",2897,622,1253370,"Compulsivo",1.47,2025-01-28,2000-07-02
+"27853300","Carolina","Contreras Araya","Mujer","Puente Alto","Catolico",8602,311,295110,"Entusiasta",5.28,2025-08-15,1996-07-27
+"16452361","Fernanda","Gonzalez Contreras","Mujer","Lo Barnechea","Catolico",1469,907,670100,"Planificado",7.96,2025-02-12,1988-04-06
+"19057576","Camila","Muñoz Rodriguez","Mujer","Lo Barnechea","Catolico",1136,451,209610,"Planificado",8.43,2025-07-21,1983-08-16
+"10527473","Valentina","Morales Flores","Otro","Maipu","Sin Religion",4724,303,560710,"Entusiasta",3.65,2025-07-03,1975-12-23
+"22065541","Francisca","Gonzalez Soto","Mujer","Santiago","Evangelico",8422,163,213200,"Planificado",1.72,2025-01-21,1992-11-11
+"8083617","Matias","Lopez Flores","Otro","Ñuñoa","Judio",9917,918,93650,"Planificado",5.96,2024-10-02,1995-02-07
+"13082269","Daniela","Sepulveda Flores","Mujer","Providencia","Evangelico",7270,847,567730,"Planificado",7.32,2025-03-22,2003-09-23
+"18191828","Daniela","Flores Fuentes","Mujer","Peñalolen","Evangelico",1218,305,171300,"Planificado",7.76,2025-04-26,2000-09-17
+"22059193","Francisca","Diaz Fuentes","Mujer","Ñuñoa","Catolico",2086,177,702490,"Organizado",8.54,2025-02-13,1981-02-19
+"22175654","Diego","Diaz Soto","Hombre","Puente Alto","Sin Religion",6682,890,385060,"Entusiasta",9.56,2024-10-26,1989-04-08
+"20751277","Juan","Muñoz Rojas","Hombre","Cerrillos","Evangelico",7753,282,87920,"Organizado",7.04,2025-04-05,1983-10-28
+"20221554","Antonia","Torres Muñoz","Mujer","Providencia","Evangelico",8011,611,682340,"Entusiasta",5.98,2024-10-16,1991-05-15
+"23586863","Javier","Torres Silva","Hombre","Santiago","Catolico",178,64,572580,"Compulsivo",2.48,2025-05-09,1977-11-16
+"17014811","Cristian","Silva Rodriguez","Hombre","Santiago","Sin Religion",1852,427,16450,"Organizado",3.17,2025-06-24,1981-04-10
+"21312753","Miguel","Rojas Flores","Hombre","Pudahuel","Evangelico",5768,345,491080,"Organizado",1.9,2025-09-03,2002-05-07
+"10842032","Matias","Flores Gonzalez","Hombre","Providencia","Evangelico",2982,619,35690,"Organizado",8,2025-03-07,1979-11-03
+"18501283","Antonia","Morales Silva","Mujer","Peñalolen","Evangelico",4344,583,213920,"Planificado",8.64,2025-03-24,1976-06-27
+"15478156","Antonia","Araya Soto","Mujer","La Reina","Catolico",8071,863,1150470,"Entusiasta",8.14,2025-08-19,1984-06-29
+"12982957","Felipe","Torres Flores","Hombre","Vitacura","Catolico",4183,110,457420,"Entusiasta",9.82,2025-07-05,2001-08-01
+"14116982","Juan","Muñoz Sepulveda","Hombre","La Florida","Evangelico",7350,202,91170,"Organizado",8.35,2025-04-09,1975-09-03
+"17526123","Miguel","Silva Perez","Hombre","La Florida","Catolico",1477,601,133180,"Planificado",2.03,2025-05-25,1986-12-09
+"26447779","Manuel","Perez Lopez","Hombre","Providencia","Sin Religion",5801,274,462520,"Planificado",8.86,2025-05-26,1991-06-12
+"27113015","Luis","Rodriguez Martinez","Hombre","Ñuñoa","Catolico",79,370,759930,"Organizado",6.89,2025-01-20,1986-10-15
+"22196234","Francisca","Hernandez Fuentes","Mujer","La Florida","Catolico",8810,147,772190,"Planificado",6.52,2025-02-03,1975-02-16
+"11287965","Carolina","Muñoz Fuentes","Mujer","Peñalolen","Evangelico",4273,539,259120,"Planificado",2.36,2025-03-01,1987-02-11
+"25809262","Antonia","Hernandez Muñoz","Mujer","Vitacura","Evangelico",4296,968,252290,"Organizado",2.55,2024-10-30,1983-01-11
+"8690405","Cristian","Perez Rodriguez","Hombre","Las Condes","Catolico",2915,588,31490,"Compulsivo",2.72,2025-09-30,1998-02-26
+"14569921","Andres","Martinez Sepulveda","Hombre","Puente Alto","Sin Religion",4375,346,595570,"Organizado",5.98,2025-07-11,2000-04-09
+"16693362","Javier","Hernandez Martinez","Hombre","Vitacura","Catolico",2270,71,153550,"Organizado",8.03,2024-12-22,1983-01-03
+"14226237","Miguel","Contreras Sepulveda","Hombre","Santiago","Catolico",8302,29,66970,"Entusiasta",1.35,2025-08-03,1975-04-23
+"13820558","Francisca","Martinez Sepulveda","Mujer","Maipu","Catolico",4009,662,726360,"Planificado",2.36,2025-05-31,1997-08-29
+"16027426","Valentina","Martinez Sepulveda","Mujer","Vitacura","Evangelico",6743,182,748510,"Entusiasta",8.88,2025-07-30,1982-10-07
+"9910945","Valentina","Morales Contreras","Mujer","Peñalolen","Catolico",5146,664,139630,"Entusiasta",2.31,2024-11-16,1990-07-14
+"12485060","Javier","Sepulveda Araya","Hombre","Ñuñoa","Catolico",6970,583,300690,"Organizado",7.24,2024-12-19,1984-06-06
+"21604327","Antonia","Araya Araya","Mujer","Ñuñoa","Evangelico",106,557,569330,"Entusiasta",8.55,2024-12-07,1985-05-28
+"9453526","Juan","Sepulveda Martinez","Hombre","La Reina","Sin Religion",9638,500,405950,"Entusiasta",7.83,2024-11-24,1975-04-20
+"22102292","Rocio","Hernandez Soto","Mujer","Ñuñoa","Catolico",5335,983,70520,"Entusiasta",3.84,2025-03-08,1976-05-04
+"21802692","Felipe","Contreras Rojas","Hombre","Peñalolen","Catolico",1656,191,609050,"Entusiasta",6.08,2025-07-22,1992-11-13
+"19295439","Josefa","Araya Diaz","Mujer","La Florida","Catolico",8783,745,620310,"Compulsivo",4.62,2025-02-25,1999-06-24
+"10043951","Manuel","Rodriguez Contreras","Hombre","Ñuñoa","Evangelico",7713,885,667540,"Compulsivo",1.08,2025-09-26,1982-05-27
+"25751705","Juan","Perez Diaz","Hombre","Maipu","Catolico",1265,597,200530,"Organizado",5.45,2025-04-13,1983-12-26
+"11583390","Diego","Rojas Diaz","Hombre","Santiago","Catolico",3296,969,683260,"Planificado",3.44,2025-03-20,2003-12-02
+"9101126","Juan","Flores Lopez","Hombre","Quilicura","Sin Religion",2474,976,446000,"Organizado",3.36,2025-08-31,1975-03-01
+"16307224","Paula","Fuentes Gonzalez","Mujer","Peñalolen","Catolico",966,242,377260,"Planificado",8.45,2025-02-16,1990-09-09
+"9897140","Pedro","Contreras Contreras","Hombre","Maipu","Musulman",718,155,764640,"Entusiasta",7.58,2024-10-02,2003-05-28
+"9045160","Cristian","Lopez Flores","Hombre","Pudahuel","Musulman",8620,972,93440,"Entusiasta",4.53,2025-01-20,1986-11-20
+"23723528","Diego","Rojas Silva","Hombre","La Florida","Catolico",3249,907,656640,"Organizado",5.33,2025-07-26,1989-08-16
+"27147061","Francisca","Muñoz Fuentes","Mujer","La Reina","Evangelico",3469,193,952200,"Organizado",8.19,2025-03-23,1989-04-09
+"22007021","Rocio","Morales Perez","Mujer","La Reina","Evangelico",8143,797,512000,"Planificado",5.41,2024-12-14,1997-03-24
+"23421438","Antonia","Sepulveda Gonzalez","Mujer","Ñuñoa","Sin Religion",8099,277,255050,"Entusiasta",2.57,2024-10-21,1977-05-06
+"25667229","Constanza","Torres Rojas","Mujer","Puente Alto","Judio",2076,867,183770,"Compulsivo",8.15,2025-06-20,1975-05-25
+"15139005","Pedro","Rojas Contreras","Hombre","Ñuñoa","Sin Religion",7611,279,174740,"Planificado",6.42,2025-05-08,1978-05-16
+"15543150","Pedro","Diaz Gonzalez","Hombre","Peñalolen","Catolico",2134,700,55090,"Compulsivo",6.04,2025-02-27,1988-07-15
+"27397612","Carla","Contreras Contreras","Mujer","Vitacura","Sin Religion",2018,508,778240,"Compulsivo",3.63,2025-04-04,1999-04-01
+"22577526","Cristian","Sepulveda Silva","Hombre","Las Condes","Catolico",6053,686,402390,"Planificado",7.03,2025-07-29,1989-05-31
+"18898660","Felipe","Araya Torres","Hombre","Peñalolen","Musulman",333,311,173870,"Planificado",3.32,2025-06-14,2003-08-17
+"12705518","Josefa","Morales Lopez","Mujer","Maipu","Sin Religion",653,732,628440,"Entusiasta",1.71,2025-09-11,1994-06-04
+"25654191","Manuel","Fuentes Muñoz","Hombre","La Florida","Evangelico",9814,507,390660,"Organizado",4.84,2024-12-08,1986-11-24
+"9672237","Pedro","Rojas Lopez","Hombre","Santiago","Catolico",3592,788,602850,"Compulsivo",5.25,2025-04-16,2000-05-07
+"9481950","Jose","Fuentes Torres","Hombre","Ñuñoa","Sin Religion",3620,562,326390,"Entusiasta",9.61,2024-10-26,1983-03-31
+"20484500","Valentina","Araya Lopez","Mujer","La Florida","Catolico",1763,382,276490,"Organizado",4.37,2025-02-09,1996-07-04
+"10519366","Javier","Perez Contreras","Hombre","Pudahuel","Sin Religion",3065,764,146760,"Entusiasta",6.12,2025-01-27,2002-11-09
+"10901294","Constanza","Rojas Gonzalez","Mujer","Santiago","Catolico",4398,96,713140,"Organizado",6.99,2024-11-12,1979-10-02
+"19345362","Josefa","Fuentes Contreras","Mujer","Lo Barnechea","Sin Religion",853,775,1044740,"Organizado",6.29,2025-08-12,1990-12-10
+"16920684","Matias","Araya Fuentes","Hombre","Lo Barnechea","Catolico",5928,203,349180,"Planificado",6.03,2024-10-31,1984-11-25
+"18870048","Pedro","Morales Gonzalez","Hombre","Providencia","Musulman",5574,947,5420,"Compulsivo",9.5,2025-08-06,1996-08-12
+"12683396","Maria","Gonzalez Muñoz","Mujer","Santiago","Evangelico",8731,125,414230,"Organizado",5.82,2025-04-25,1982-01-29
+"10406829","Carolina","Martinez Lopez","Mujer","Peñalolen","Evangelico",7969,486,40080,"Entusiasta",4.48,2025-05-27,2002-11-21
+"13439456","Diego","Rojas Torres","Hombre","Ñuñoa","Catolico",7321,185,23440,"Organizado",5.11,2025-03-26,1982-07-12
+"17425925","Carolina","Rodriguez Lopez","Mujer","Providencia","Evangelico",1921,880,754400,"Planificado",7.28,2025-06-20,1977-02-08
+"24456883","Cristian","Rodriguez Rojas","Otro","Ñuñoa","Musulman",9031,333,503470,"Organizado",1.37,2025-02-27,1996-10-03
+"21095000","Manuel","Torres Araya","Hombre","Pudahuel","Evangelico",5514,718,673210,"Organizado",3.11,2024-12-22,1983-09-22
+"27753816","Rocio","Martinez Rojas","Mujer","Vitacura","Catolico",6016,797,1191300,"Planificado",8.01,2025-09-09,1982-12-20
+"25290410","Valentina","Martinez Fuentes","Mujer","Lo Barnechea","Sin Religion",5276,335,89410,"Planificado",8.22,2025-08-27,1990-07-26
+"26334724","Josefa","Hernandez Morales","Mujer","Ñuñoa","Sin Religion",6277,122,512080,"Entusiasta",4.37,2024-12-02,1986-08-10
+"17293792","Fernanda","Fuentes Diaz","Mujer","Vitacura","Sin Religion",2001,71,118210,"Entusiasta",1.8,2024-12-15,1991-11-06
+"10292973","Fernanda","Rojas Flores","Mujer","Ñuñoa","Catolico",4287,575,191960,"Entusiasta",4.5,2025-06-26,1999-01-09
+"21712137","Antonia","Silva Fuentes","Mujer","Puente Alto","Evangelico",9274,449,460220,"Entusiasta",5.3,2025-04-19,1989-10-31
+"8757375","Diego","Torres Lopez","Hombre","Peñalolen","Catolico",9448,208,220000,"Organizado",2.78,2025-02-21,1996-10-04
+"26454731","Pedro","Gonzalez Diaz","Hombre","Providencia","Evangelico",7821,956,213960,"Planificado",8.83,2025-03-13,2000-05-19
+"10898183","Constanza","Morales Contreras","Mujer","Pudahuel","Catolico",3759,903,52910,"Entusiasta",6.52,2025-01-13,1978-07-19
+"10044161","Cristian","Gonzalez Rojas","Hombre","La Reina","Sin Religion",7954,674,56380,"Entusiasta",9.19,2025-03-11,1981-11-03
+"17438070","Paula","Hernandez Silva","Mujer","Peñalolen","Sin Religion",6743,322,298300,"Compulsivo",9.23,2025-01-29,1980-07-25
+"27951303","Juan","Contreras Muñoz","Hombre","La Florida","Catolico",8038,613,284770,"Organizado",5.19,2025-08-06,1993-01-07
+"21776964","Antonia","Morales Araya","Mujer","Santiago","Sin Religion",1503,376,732180,"Entusiasta",5,2025-03-24,1985-04-12
+"10976267","Fernanda","Perez Morales","Mujer","Providencia","Sin Religion",9108,496,275090,"Organizado",1.08,2025-09-11,1991-08-05
+"16223217","Matias","Torres Contreras","Hombre","Quilicura","Evangelico",2188,280,666700,"Entusiasta",6.77,2024-11-05,2003-05-13
+"11393030","Jose","Araya Araya","Hombre","Santiago","Catolico",9632,410,289620,"Organizado",9.55,2024-10-06,1981-08-30
+"20881289","Diego","Araya Muñoz","Hombre","Las Condes","Catolico",1513,86,466400,"Planificado",1.68,2025-03-09,1999-04-17
+"27089151","Carolina","Silva Soto","Mujer","Maipu","Evangelico",718,410,771930,"Compulsivo",3.4,2025-01-26,1987-05-10
+"11209694","Constanza","Rojas Rodriguez","Mujer","Providencia","Judio",416,21,616080,"Organizado",2.59,2025-02-27,1984-05-20
+"12462246","Javier","Silva Lopez","Hombre","Cerrillos","Judio",232,940,287980,"Organizado",7.87,2025-03-11,2002-12-26
+"20404956","Luis","Fuentes Rodriguez","Hombre","Vitacura","Catolico",1007,949,484200,"Organizado",3.67,2024-11-20,1988-03-09
+"20603385","Carlos","Torres Lopez","Hombre","La Reina","Evangelico",4151,370,688010,"Compulsivo",1.4,2024-11-20,1995-11-25
+"27806349","Valentina","Torres Gonzalez","Mujer","Lo Barnechea","Evangelico",5980,425,241200,"Organizado",8.41,2025-03-10,1988-05-29
+"12598462","Maria","Rojas Silva","Mujer","Cerrillos","Catolico",2642,381,451490,"Planificado",3.95,2025-04-11,1987-03-12
+"18610121","Francisca","Fuentes Silva","Mujer","Lo Barnechea","Evangelico",8498,510,744540,"Planificado",5.98,2025-07-27,1991-11-21
+"21502204","Carlos","Araya Diaz","Hombre","San Bernardo","Catolico",5008,372,203960,"Compulsivo",9.54,2025-08-28,1986-04-17
+"15192319","Paula","Araya Martinez","Mujer","La Florida","Catolico",8349,604,120690,"Planificado",5.4,2025-07-17,1989-06-30
+"11349182","Carlos","Lopez Diaz","Hombre","Vitacura","Evangelico",9257,885,746150,"Entusiasta",6.71,2025-08-15,1999-09-24
+"19032896","Camila","Muñoz Gonzalez","Mujer","Maipu","Evangelico",1709,646,237700,"Planificado",3.9,2024-12-01,2001-02-07
+"27325710","Miguel","Torres Hernandez","Hombre","La Reina","Catolico",8819,236,1121040,"Organizado",6.71,2025-01-20,1995-09-04
+"19573189","Juan","Fuentes Torres","Hombre","Maipu","Catolico",356,417,521370,"Compulsivo",1.59,2025-09-27,1993-09-18
+"10236613","Diego","Perez Torres","Hombre","Santiago","Evangelico",1343,656,172740,"Compulsivo",8.34,2025-09-13,1989-05-03
+"19188987","Jose","Martinez Lopez","Hombre","Santiago","Sin Religion",7904,392,742920,"Planificado",6.94,2025-01-26,1990-10-10
+"12783381","Antonia","Flores Perez","Mujer","Quilicura","Evangelico",4541,274,206270,"Compulsivo",1.78,2025-01-21,1976-03-10
+"9270958","Josefa","Sepulveda Morales","Mujer","Lo Barnechea","Sin Religion",9970,335,174270,"Planificado",8.6,2024-10-10,1986-02-03
+"25482683","Luis","Flores Sepulveda","Hombre","Maipu","Catolico",3424,535,493590,"Organizado",5.61,2024-10-27,1989-06-02
+"9300944","Camila","Muñoz Torres","Mujer","La Florida","Evangelico",2796,911,709880,"Planificado",4.52,2025-08-15,1997-09-26
