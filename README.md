@@ -56,9 +56,9 @@ Para reproducir este análisis en tu entorno local de RStudio:
 ---
 
 **Equipo de Trabajo:**
-    *Jaime Herrera
-    *Benjamin Valenzuela
-    *Paulo Brito
+Jaime Herrera
+Benjamin Valenzuela
+Paulo Brito
 
 **Carrera:** Ingeniería en Informática
 **Institución:** Instituto Profesional INACAP - Sede Renca
